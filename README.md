@@ -10,6 +10,10 @@ This script for GTA V FiveM servers allows players to summon Mewtwo, interact wi
 - Use a pokeball to capture or release Mewtwo.
 - Interaction and capture mechanics are displayed through in-game notifications and floating help notifications.
 
+
+https://github.com/JESSIM-lua/GTAV-Pokemon/assets/145444152/9049e8bf-6e9a-47a6-b446-e076a08d6c79
+
+
 ## Prerequisites
 
 - FiveM server with the ESX framework installed.
